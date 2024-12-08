@@ -4,6 +4,6 @@ This repository contains links to all the amazing projects hosted under [semeste
 
 ## 📂 My Repositories
 
-- [Project 1](https://github.com/semester-projects/project-1-text-based-game)  
+- [Project 1- A Terminal-Based Mystery Game](https://github.com/semester-projects/project-1-text-based-game)  
 
 Explore more: [All Repositories](https://github.com/orgs/semester-projects/repositories).
