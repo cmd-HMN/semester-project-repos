@@ -1,6 +1,6 @@
 # 🏢 Organization
 
-This repository contains links to all the amazing projects hosted under [semester-projects](https://github.com/semester-projects/README).
+This repository contains links to all the amazing projects hosted under [semester-projects](https://github.com/semester-projects).
 
 ## 📂 My Repositories
 
